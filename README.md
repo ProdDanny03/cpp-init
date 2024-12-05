@@ -15,3 +15,4 @@ conan profile detect --force
 ``` bash
 ./cpp-init project-Name
 ```
+- Change Default Params in cpp-init-templates folder
