@@ -8,7 +8,7 @@ A cpp program for creating new Conan2 / CMake projects
 conan profile detect --force
 ```
 - Install CMake
-- Install and extract contents cpp-init folder into desired Projects folder
+- Install and extract contents of cpp-init folder into desired Projects folder
 - Open Projects folder in Console
 - Use - / _ instead of spaces for project name, using spaces will ignore the rest of the name
 
