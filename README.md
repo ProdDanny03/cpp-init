@@ -15,4 +15,9 @@ conan profile detect --force
 ``` bash
 ./cpp-init project-Name
 ```
-- Change Default Params in cpp-init-templates folder
+- Change Default Params in cpp-init-templates/ folder
+- Build files using cmake
+``` bash
+cmake --build build/
+```
+- Release executable is named cpp-build, change default name in cpp-init-templates/
